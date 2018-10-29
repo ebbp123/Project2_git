@@ -12,6 +12,7 @@
 #include "comm.h"
 #define MSGSIZE 1048
 /* -------------------------Main function for the client ----------------------*/
+//thao 2 time
 void main(int argc, char * argv[]) {
 
 	int pipe_to_user[2], pipe_to_server[2];
